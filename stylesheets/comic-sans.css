@@ -1,0 +1,59 @@
+@font-face {
+    font-family: 'Comic Sans MS';
+    src: url('https://cdn.jsdelivr.net/gh/zensprojects/comic-sans-webfont/ComicSansMS-BoldItalic.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/zensprojects/comic-sans-webfont/ComicSansMS-BoldItalic.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/zensprojects/comic-sans-webfont/ComicSansMS-BoldItalic.svg#ComicSansMS-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Comic Sans MS';
+    src: url('https://cdn.jsdelivr.net/gh/zensprojects/comic-sans-webfont/ComicSansMS.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/zensprojects/comic-sans-webfont/ComicSansMS.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/zensprojects/comic-sans-webfont/ComicSansMS.svg#ComicSansMS') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Comic Sans MS';
+    src: url('https://cdn.jsdelivr.net/gh/zensprojects/comic-sans-webfont/ComicSansMS-Bold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/zensprojects/comic-sans-webfont/ComicSansMS-Bold.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/zensprojects/comic-sans-webfont/ComicSansMS-Bold.svg#ComicSansMS-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Comic Sans MS';
+    src: url('https://cdn.jsdelivr.net/gh/zensprojects/comic-sans-webfont/ComicSansMS-Italic.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/zensprojects/comic-sans-webfont/ComicSansMS-Italic.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/zensprojects/comic-sans-webfont/ComicSansMS-Italic.svg#ComicSansMS-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Comic Sans MS';
+    src: url('https://cdn.jsdelivr.net/gh/zensprojects/comic-sans-webfont/ComicSansMS.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/zensprojects/comic-sans-webfont/ComicSansMS.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/zensprojects/comic-sans-webfont/ComicSansMS.svg#ComicSansMS') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Comic Sans MS';
+    src: url('https://cdn.jsdelivr.net/gh/zensprojects/comic-sans-webfont/ComicSansMS.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/zensprojects/comic-sans-webfont/ComicSansMS.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/zensprojects/comic-sans-webfont/ComicSansMS.svg#ComicSansMS') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
