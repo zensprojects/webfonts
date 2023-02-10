@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Cunei';
+    src: url('https://cdn.jsdelivr.net/gh/zensprojects/comic-sans-webfont/CuneiFont-Light.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/zensprojects/comic-sans-webfont/CuneiFont-Light.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/zensprojects/comic-sans-webfont/CuneiFont-Light.ttf') format('truetype'),
+        url('https://cdn.jsdelivr.net/gh/zensprojects/comic-sans-webfont/CuneiFont-Light.svg#CuneiFont-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
