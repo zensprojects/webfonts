@@ -52,3 +52,35 @@ h1 {
     font-style: normal;
 }
 ```
+
+## Cunei
+
+First, add the stylesheet in your &#x3C;head&#x3E; tag
+
+`<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/zensprojects/webfonts@master/stylesheets/cunei.css">`
+
+Then, specify the font in css
+
+```
+h1 {
+    font-family: 'Cunei';
+    font-weight: normal;
+    font-style: normal;
+}
+```
+
+## Crillee
+
+First, add the stylesheet in your &#x3C;head&#x3E; tag
+
+`<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/zensprojects/webfont-jsdelivr@main/crile/stylesheet.css">`
+
+Then, specify the font in css
+
+```
+h1 {
+    font-family: 'Crillee';
+    font-weight: normal;
+    font-style: normal;
+}
+```
