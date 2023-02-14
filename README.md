@@ -8,6 +8,7 @@ I decided to start this when I discovered there isn't a great way to use Comic S
 - [Box Clever](#box-clever)
 - [Crillee](#crillee)
 - [Transformers](#transformers)
+- [Scratch](#scratch)
 
 # Fonts
 
@@ -86,6 +87,22 @@ Then, specify the font in css
 ```
 h1 {
     font-family: 'Transformers Movie';
+    font-weight: normal;
+    font-style: normal;
+}
+```
+
+## Scratch
+
+First, add the stylesheet in your &#x3C;head&#x3E; tag
+
+`<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/zensprojects/webfont-jsdelivr@master/scratch/stylesheet.css">`
+
+Then, specify the font in css
+
+```
+h1 {
+    font-family: 'Scratch';
     font-weight: normal;
     font-style: normal;
 }
