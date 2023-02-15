@@ -1,7 +1,7 @@
 # webfonts
 a collection of webfonts for usage
 
-### [All Fonts - Click Here](https://codepen.io/zensprojects/embed/ababYqB?default-tab=result)
+### [View All Fonts Preview](https://codepen.io/zensprojects/full/ababYqB)
 
 I decided to start this when I discovered there isn't a great way to use Comic Sans on the web with HTML5. I wanted to make a website with the font as a joke, so I created a webfont. There will be more fonts too.
 
