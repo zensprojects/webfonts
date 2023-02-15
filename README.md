@@ -11,6 +11,7 @@ I decided to start this when I discovered there isn't a great way to use Comic S
 - [Crillee](#crillee)
 - [Transformers](#transformers)
 - [Scratch](#scratch)
+- [Comic Serif](#comic-serif)
 
 # Fonts
 
