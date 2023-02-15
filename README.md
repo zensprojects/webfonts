@@ -13,6 +13,7 @@ I decided to start this when I discovered there isn't a great way to use Comic S
 - [Scratch](#scratch)
 - [Comic Serif](#comic-serif)
 - [Bauhaus 93](#bauhaus-93)
+- [Lavi](#lavi)
 
 # Fonts
 
@@ -140,6 +141,23 @@ Then, specify the font in css
 ```
 h1 {
     font-family: 'Bauhaus 93';
+    font-weight: normal;
+    font-style: normal;
+}
+```
+
+
+## Lavi
+
+First, add the stylesheet in your &#x3C;head&#x3E; tag
+
+`<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/zensprojects/webfont-jsdelivr@master/lavi/stylesheet.css">`
+
+Then, specify the font in css
+
+```
+h1 {
+    font-family: 'Lavi';
     font-weight: normal;
     font-style: normal;
 }
