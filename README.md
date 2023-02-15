@@ -109,3 +109,19 @@ h1 {
     font-style: normal;
 }
 ```
+
+## Comic Serif
+
+First, add the stylesheet in your &#x3C;head&#x3E; tag
+
+`<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/zensprojects/webfont-jsdelivr@master/comicserif/stylesheet.css">`
+
+Then, specify the font in css
+
+```
+h1 {
+    font-family: 'Comic Serif';
+    font-weight: normal;
+    font-style: normal;
+}
+```
