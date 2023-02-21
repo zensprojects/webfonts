@@ -15,6 +15,8 @@ I decided to start this when I discovered there isn't a great way to use Comic S
 - [Bauhaus 93](#bauhaus-93)
 - [Lavi](#lavi)
 - [Liberi](#liberi)
+- [Round](#round)
+
 
 # Fonts
 
@@ -176,6 +178,24 @@ Then, specify the font in css
 ```
 h1 {
     font-family: 'Liberi';
+    font-weight: normal;
+    font-style: normal;
+}
+```
+
+
+
+## Round
+
+First, add the stylesheet in your &#x3C;head&#x3E; tag
+
+`<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/zensprojects/webfont-jsdelivr@master/round/stylesheet.css">`
+
+Then, specify the font in css
+
+```
+h1 {
+    font-family: 'Round';
     font-weight: normal;
     font-style: normal;
 }
