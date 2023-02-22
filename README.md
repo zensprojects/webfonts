@@ -208,7 +208,7 @@ h1 {
 
 First, add the stylesheet in your &#x3C;head&#x3E; tag
 
-`<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/zensprojects/webfont-jsdelivr@master/andale/stylesheet.css">`
+`<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/zensprojects/webfont-jsdelivr@008364b000/andale/stylesheet.css">`
 
 Then, specify the font in css
 
