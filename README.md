@@ -17,6 +17,7 @@ I decided to start this when I discovered there isn't a great way to use Comic S
 - [Liberi](#liberi)
 - [Round](#round)
 - [Andale](#andale)
+- [Yahoo](#yahoo)
 
 
 # Fonts
@@ -215,6 +216,24 @@ Then, specify the font in css
 ```
 h1 {
     font-family: 'Andale';
+    font-weight: normal;
+    font-style: normal;
+}
+```
+
+
+
+## Yahoo
+
+First, add the stylesheet in your &#x3C;head&#x3E; tag
+
+`<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/zensprojects/webfont-jsdelivr@master/yahoo/stylesheet.css">`
+
+Then, specify the font in css
+
+```
+h1 {
+    font-family: 'Yahoo';
     font-weight: normal;
     font-style: normal;
 }
