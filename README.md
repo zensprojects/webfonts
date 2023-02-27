@@ -19,6 +19,7 @@ I decided to start this when I discovered there isn't a great way to use Comic S
 - [Andale](#andale)
 - [Yahoo](#yahoo)
 - [Handel](#handel)
+- [Komika](#komika)
 
 
 # Fonts
@@ -284,5 +285,25 @@ h1 {
 ```
 
 ![https://iili.io/HV3NeG1.png](https://iili.io/HV3NeG1.png)
+
+
+
+## Komika
+
+First, add the stylesheet in your &#x3C;head&#x3E; tag
+
+`<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/zensprojects/webfont-jsdelivr@master/komika/stylesheet.css">`
+
+Then, specify the font in css
+
+```
+h1 {
+    font-family: 'Komika';
+    font-weight: normal;
+    font-style: normal;
+}
+```
+
+![https://iili.io/HV3O7Sa.png](https://iili.io/HV3O7Sa.png)
 
 
