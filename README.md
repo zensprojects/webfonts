@@ -18,6 +18,7 @@ I decided to start this when I discovered there isn't a great way to use Comic S
 - [Round](#round)
 - [Andale](#andale)
 - [Yahoo](#yahoo)
+- [Handel](#handel)
 
 
 # Fonts
@@ -264,3 +265,24 @@ h1 {
 ```
 
 ![https://iili.io/HV3GtVa.png](https://iili.io/HV3GtVa.png)
+
+
+## Handel
+
+First, add the stylesheet in your &#x3C;head&#x3E; tag
+
+`<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/zensprojects/webfont-jsdelivr@master/handel/stylesheet.css">`
+
+Then, specify the font in css
+
+```
+h1 {
+    font-family: 'Handel';
+    font-weight: normal;
+    font-style: normal;
+}
+```
+
+![https://iili.io/HV3NeG1.png](https://iili.io/HV3NeG1.png)
+
+
