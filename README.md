@@ -37,6 +37,8 @@ h1 {
     font-style: normal;
 }
 ```
+![https://iili.io/HV3M2DX.png](https://iili.io/HV3M2DX.png)
+
 
 ## Cunei
 
@@ -53,6 +55,8 @@ h1 {
     font-style: normal;
 }
 ```
+![https://iili.io/HV3MdNt.png](https://iili.io/HV3MdNt.png)
+
 
 ## Box Clever
 
@@ -70,6 +74,8 @@ h1 {
 }
 ```
 
+![https://iili.io/HV3MJRI.png](https://iili.io/HV3MJRI.png)
+
 ## Crillee
 
 First, add the stylesheet in your &#x3C;head&#x3E; tag
@@ -85,6 +91,8 @@ h1 {
     font-style: normal;
 }
 ```
+
+![https://iili.io/HV3MHHN.png](https://iili.io/HV3MHHN.png)
 
 ## Transformers
 
@@ -102,6 +110,8 @@ h1 {
 }
 ```
 
+![https://iili.io/HV3GplR.png](https://iili.io/HV3GplR.png)
+
 ## Scratch
 
 First, add the stylesheet in your &#x3C;head&#x3E; tag
@@ -117,6 +127,8 @@ h1 {
     font-style: normal;
 }
 ```
+
+![https://iili.io/HV3GySp.png](https://iili.io/HV3GySp.png)
 
 ## Comic Serif
 
@@ -134,6 +146,8 @@ h1 {
 }
 ```
 
+![https://iili.io/HV3GmKv.png](https://iili.io/HV3GmKv.png)
+
 
 ## Bauhaus 93
 
@@ -150,6 +164,8 @@ h1 {
     font-style: normal;
 }
 ```
+
+![https://iili.io/HV3GDiJ.png](https://iili.io/HV3GDiJ.png)
 
 
 ## Lavi
@@ -169,6 +185,9 @@ h1 {
 ```
 
 
+![https://iili.io/HV3GsN1.png](https://iili.io/HV3GsN1.png)
+
+
 ## Liberi
 
 First, add the stylesheet in your &#x3C;head&#x3E; tag
@@ -185,6 +204,8 @@ h1 {
 }
 ```
 
+
+![https://iili.io/HV3GiAP.png](https://iili.io/HV3GiAP.png)
 
 
 ## Round
@@ -203,6 +224,7 @@ h1 {
 }
 ```
 
+![https://iili.io/HV3GLDF.png](https://iili.io/HV3GLDF.png)
 
 
 ## Andale
@@ -222,6 +244,8 @@ h1 {
 ```
 
 
+![https://iili.io/HV3GZog.png](https://iili.io/HV3GZog.png)
+
 
 ## Yahoo
 
@@ -239,3 +263,4 @@ h1 {
 }
 ```
 
+![https://iili.io/HV3GtVa.png](https://iili.io/HV3GtVa.png)
